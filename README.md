@@ -41,4 +41,6 @@ set roll_kd_rap3=65
 set pitch_kd_rap3=65
 set yaw_kd_rap3=65
 
+#crossfire (connect it to uart2)
+crsf_b2
 ```
