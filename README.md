@@ -1,4 +1,4 @@
-new UI: https://github.com/heliorc/pegasus-ui/releases/tag/v0.1.11
+Use the pegasus binary and flash with DFU using the new UI, New UI https://github.com/heliorc/pegasus-ui/releases/tag/v0.1.11
 
 # omg
 
