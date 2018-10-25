@@ -1,4 +1,4 @@
-new UI: https://github.com/heliorc/pegasus-ui/releases/tag/v0.1.6
+new UI: https://github.com/heliorc/pegasus-ui/releases/tag/v0.1.11
 
 # omg
 
