@@ -4,8 +4,6 @@ Use the pegasus binary and flash with DFU using the new UI: https://drive.google
 
 ## settings
 
-use any 3xx configurator
-
 ```cli
 #profile 1
 set imuf_roll_q1=2000
