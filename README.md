@@ -2,7 +2,9 @@ Use the pegasus binary and flash with DFU using the new UI: https://drive.google
 
 # omg
 
-## settings
+## settings for non-pegasus firmware
+
+use any 3xx configurator.
 
 ```cli
 #profile 1
